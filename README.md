@@ -6,7 +6,7 @@ A simple static website built with **HTML & CSS** and hosted on **Amazon S3** as
 
 ## 🚀 Live Demo
 
-🔗 [Click here to view the live website](http://aurora-website-001.s3-website.eu-north-1.amazonaws.com/)
+🔗 [Click here to view the live website]http://aurora-website-001.s3-website.eu-north-1.amazonaws.com/)
 
 
 ---
@@ -39,7 +39,7 @@ A simple static website built with **HTML & CSS** and hosted on **Amazon S3** as
 - Select your preferred **AWS Region**
 - **Uncheck** "Block all public access"
 
-![Create S3 Bucket](<img width="334" height="250" alt="image" src="https://github.com/user-attachments/assets/27615c5a-5ede-45e0-820c-029f3d608f5b" />
+<img width="334" height="250" alt="image" src="https://github.com/user-attachments/assets/27615c5a-5ede-45e0-820c-029f3d608f5b" />
 )
 
 ---
@@ -94,8 +94,8 @@ A simple static website built with **HTML & CSS** and hosted on **Amazon S3** as
 - Copy the **Bucket website endpoint** URL
 - Open it in your browser 🎉
 
-![Live Website](<img width="806" height="524" alt="image" src="https://github.com/user-attachments/assets/7fda829b-a5fb-46c9-b8ff-015dc7303f52" />
-)
+<img width="806" height="524" alt="image" src="https://github.com/user-attachments/assets/7fda829b-a5fb-46c9-b8ff-015dc7303f52" />
+
 
 
 ---
